@@ -1,0 +1,98 @@
+div.main-content{
+    margin-top: 5%; 
+    margin-left: 5%;
+}
+
+div#close{
+    position: relative; 
+    margin-top: 20px; 
+    width: 80%;
+}
+
+div#containerOperacao{
+    position: relative;
+    right: 1%;
+}
+
+form#compra{
+    margin-top: 30px;
+}
+
+form#compra div.row div.col {
+    margin-top: 2%;
+}
+
+#form1col-3{
+    margin-top: 2% !important;
+}
+
+#form1col-3 label{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#form1col-3 input{
+    margin-top: 2%;
+}
+
+#form2col-3{
+    margin-top: 2% !important;
+}
+
+#ValorOrdem{
+    font-size: 16px; 
+    font-weight: 500;
+}
+
+#totalLabel{
+    display: table-row;
+    font-size: 24px;
+    font-weight: 400;
+    top: 10%;
+    position: relative;
+}
+
+#divConfirmar{
+    margin-top: 2%;
+}
+
+#divPesquisa{
+    position: relative;
+    right: 1%;
+}
+
+#input-group-pesquisa{
+    margin-top: 30px;
+}
+
+div#divPesquisa #span{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+div#divPesquisa p{
+    font-size: 14px;
+    font-weight: 500; 
+    margin-top: 15px;
+}
+
+div#divPesquisa table{
+    width: 40%;
+}
+
+div#divPesquisa table td#td{
+    text-align: center;
+}
+
+form#validacao{
+    margin-top: 5%;
+}
+
+#iconFechar{
+    float: right;
+}
+
+#spanValor{
+    font-size: 16px;
+    font-weight: 500;
+}
